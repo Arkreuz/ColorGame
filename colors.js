@@ -67,7 +67,7 @@ function reset(){
 			squares[i].style.display = "none";
 		}
 	}
-	h1.style.background = "skyblue";
+	h1.style.background = "RGB(246, 50, 175)";
 }
 
 resetButton.addEventListener("click", function(){
